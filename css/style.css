@@ -27,6 +27,7 @@ body{
     text-align: right;
     color: #ffffff;
     border: none;
+    overflow:hidden;
 }
 
 .button{
